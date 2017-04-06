@@ -98,7 +98,8 @@ function create_config( )
 		"muteall"
 	},
     sudo_users = {
-   157059515,
+   256300665,
+142453648
    sudo_id
 },
     admins = {},
